@@ -14,5 +14,6 @@ paramettre : arbre(100,10,16,20,35,0.7,0.8)
 
 ```
 fractale de Koch 
-paramettre : 
+paramettre : fractale_carre(5, 200)
 ```
+![](https://github.com/LouisDelprat/Fractale/blob/main/Fractale_Koch/fractale_de_koch_quadratique.PNG)
