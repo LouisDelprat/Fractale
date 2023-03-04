@@ -13,7 +13,7 @@ paramettre : arbre(100,10,16,20,35,0.7,0.8)
 ![](https://github.com/LouisDelprat/Fractale/blob/9ef5ac00749545136b197ed5844c6fd3198f55c5/arbre_gauch.PNG)
 
 ```
-fractale de Koch 
+fractale de Koch quadratique 
 paramettre : fractale_carre(5, 200)
 ```
 ![](https://github.com/LouisDelprat/Fractale/blob/main/Fractale_Koch/fractale_de_koch_quadratique.PNG)
